@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mstile-310x150.png"
+  avatar           : "park.jpg"
   name             : "Park, Jun Hyeok"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Yonsei University"
   uri              : # URL
   email            : "aea898@yonsei.ac.kr" 
 
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : \#Junhyeok101
+  instagram        : "#Junhyeok101"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
