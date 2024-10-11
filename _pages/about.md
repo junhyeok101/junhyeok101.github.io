@@ -41,13 +41,13 @@ redirect_from:
 
 ------
 
-### 🏫 Extracurricular Activities
+### 🏛️ Extracurricular Activities
 
-💻 **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)
-- Actively engaging in study groups and projects in the field of computer science.
+- **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)
+  Actively engaging in study groups and projects in the field of computer science.
 
-🏛️ **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)
-- Responsible for organizing and managing various departmental events as part of the Planning Department.
+- **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)
+  Responsible for organizing and managing various departmental events as part of the Planning Department.
 
 ------
 
