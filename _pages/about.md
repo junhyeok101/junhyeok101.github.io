@@ -20,7 +20,7 @@ redirect_from:
 ### 🏅 Education
 
 - **Yonsei University**, Sophomore in Interior Architecture (Double Major in Computer Science).
-- GPA: 4.04 / 4.30 (Overall), 4.09 / 4.30 (Major)
+- GPA: **4.04** / 4.30 (Overall), **4.09** / 4.30 (Major)
 
 ------
 
@@ -34,21 +34,20 @@ redirect_from:
 
 ------
 
-### 🏫 Extracurricular Activities
+### 🎖️ Award
 
+- **Certificate of Achievement by US Army**
+- Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.
+
+------
+
+### 🏫 Extracurricular Activities
 
 💻 **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)
 - Actively engaging in study groups and projects in the field of computer science.
 
 🏛️ **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)
 - Responsible for organizing and managing various departmental events as part of the Planning Department.
-
-------
-
-### 🎖️ Award
-
-- **Certificate of Achievement by US Army**
-- Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.
 
 ------
 
