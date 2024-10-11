@@ -39,7 +39,7 @@ redirect_from:
 
 - **Certificate of Achievement by US Army**
 - Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.
-![Illustration of combining vision and language modalities](/images/a20.jpg)
+![Illustration of combining vision and language modalities](/images/a20.jpg){width=300px}
 
 
 ------
