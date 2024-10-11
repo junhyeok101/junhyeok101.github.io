@@ -29,7 +29,7 @@ redirect_from:
 
 - [**Yonsei DX Coding Camp**](/files/certification.pdf) Data Science Course (Jun 2024 - Aug 2024)<br>
   Focused on Practical Data Science Strategies, Data Preprocessing.<br>
-  [**Part of project**](./posts/codingcamp)
+  [**Part of project**](./_posts/codingcamp)
 
 - **AI and Software Competency Enhancement Program for Military** (Aug 2023 - Oct 2023)<br>
   Participated in a basic Python course as part of the military support program.
