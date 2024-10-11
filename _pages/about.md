@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="200px" style="margin-top: 20px;"}
+![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="150px" style="margin-top: 20px;"}
 
 🎓 I'm a sophomore of Yonsei University, majoring in Interior Architecture with a double major in Computer Science.
 
@@ -29,7 +29,7 @@ redirect_from:
 
 - [**Yonsei DX Coding Camp**](/files/certification.pdf) Data Science Course (Jun 2024 - Aug 2024)<br>
   Focused on Practical Data Science Strategies, Data Preprocessing.<br>
-  [**Part of project**](./_posts/codingcamp)
+  [**Part of project**](/_posts/codingcamp)
 
 - **AI and Software Competency Enhancement Program for Military** (Aug 2023 - Oct 2023)<br>
   Participated in a basic Python course as part of the military support program.
