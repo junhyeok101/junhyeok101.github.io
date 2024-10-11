@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: ## 👋 Hello everyone, I'm Park, Junhyeok!
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="200px" style="margin-bottom: 20px;"}
-
-## 👋 Hello everyone, I'm Park, Junhyeok!
 
 🎓 I'm a sophomore of Yonsei University, majoring in Interior Architecture with a double major in Computer Science.
 
