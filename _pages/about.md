@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="200px"}
+![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="150px"}
 
 ## 👋 Hello everyone, I'm Park, Junhyeok!
 
@@ -19,10 +19,7 @@ redirect_from:
 
 ### 🏅 Education
 
-**Yonsei University**
-  
-- Sophomore in Interior Architecture (Double Major in Computer Science).
-  
+- **Yonsei University**, Sophomore in Interior Architecture (Double Major in Computer Science).
 - GPA: 4.04 / 4.30 (Overall), 4.09 / 4.30 (Major)
 
 ------
@@ -30,11 +27,9 @@ redirect_from:
 ### 💼 Experience
 
 - **Yonsei DX Coding Camp** Data Science Course (Jun 2024 - Aug 2024)
-
   Focused on Practical Data Science Strategies, Data Preprocessing.
   
 - **AI and Software Competency Enhancement Program for Military** (Aug 2023 - Oct 2023)
-  
   Participated in a basic Python course as part of the military support program.
 
 ------
@@ -42,20 +37,17 @@ redirect_from:
 ### 🏫 Extracurricular Activities
 
 💻 **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)
-
-Actively engaging in study groups and projects in the field of computer science.
+- Actively engaging in study groups and projects in the field of computer science.
 
 🏛️ **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)
-
-Responsible for organizing and managing various departmental events as part of the Planning Department.
+- Responsible for organizing and managing various departmental events as part of the Planning Department.
 
 ------
 
 ### 🎖️ Award
 
 - **Certificate of Achievement by US Army**
-- 
-  Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.
+- Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.
 
 ------
 
