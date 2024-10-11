@@ -13,7 +13,7 @@ redirect_from:
 
 📖 My research interests are in **Computer Vision** and **Data Science**
 
-💡 I am passionate about learning deeply and finding the right solutions in the field of computer science. I value teamwork and love sharing ideas to grow together.
+💡 I'm passionate about learning deeply and finding solutions in computer science. I value teamwork and love sharing ideas to grow together.
 
 ------
 
