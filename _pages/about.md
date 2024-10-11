@@ -26,11 +26,11 @@ redirect_from:
 
 ### 💼 Experience
 
-- **Yonsei DX Coding Camp** Data Science Course (Jun 2024 - Aug 2024)
+- **Yonsei DX Coding Camp** Data Science Course (Jun 2024 - Aug 2024)<br>
   Focused on Practical Data Science Strategies, Data Preprocessing.
 ![Illustration of combining vision and language modalities](/images/certificate.jpg)
 
-- **AI and Software Competency Enhancement Program for Military** (Aug 2023 - Oct 2023)
+- **AI and Software Competency Enhancement Program for Military** (Aug 2023 - Oct 2023)<br>
   Participated in a basic Python course as part of the military support program.
 
 ------
