@@ -12,11 +12,13 @@ redirect_from:
 
 📖 My research interests are in **Computer Vision** and **Data Science**
 
-💡 I'm passionate about learning deeply and finding solutions in computer science. I value teamwork and love sharing ideas to grow together.
+💡 I'm passionate about learning deeply and finding solutions in computer science. 
+
+😊 I value teamwork and love sharing ideas to grow together.
 
 ------
 
-### 🏅 Education
+### ✏️ Education
 
 - **Yonsei University**, Sophomore in Interior Architecture (Double Major in Computer Science).
 - GPA: **4.04** / 4.30 (Overall), **4.09** / 4.30 (Major)
