@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ## 👋 Hello everyone, I'm Park, Junhyeok!
+title: 👋 Hello everyone, I'm Park, Junhyeok!
 author_profile: true
 redirect_from: 
   - /about/
@@ -37,7 +37,7 @@ redirect_from:
 
 ### 🎖️ Award
 
-- **Certificate of Achievement by US Army**
+- **Certificate of Achievement by US Army**<br>
 - Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.
 ![Illustration of combining vision and language modalities](/images/a20.jpg){width=300px}
 
@@ -46,19 +46,19 @@ redirect_from:
 
 ### 🏛️ Extracurricular Activities
 
-- **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)
+- **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)<br>
   Actively engaging in study groups and projects in the field of computer science.
 
-- **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)
+- **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)<br>
   Responsible for organizing and managing various departmental events as part of the Planning Department.
 
 ------
 
 ### 🔬 Research Interests
 
-- **Computer Vision**
+- **Computer Vision**<br>
   Interested in using computer vision to advance smart home IoT devices.
-- **Data Science**
+- **Data Science**<br>
   Interested in exploring applications of data science in various fields.
 
 ------
@@ -74,7 +74,7 @@ redirect_from:
 ### 🌐 Language Proficiency
 
 - **Korean** 
-- **English**
+- **English**<br>
   Served as a KATUSA at a U.S. military base (Nov 2022 - May 2024) and received honors like the COA.
 
 ------
