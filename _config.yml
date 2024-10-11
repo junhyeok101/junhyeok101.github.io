@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Korea"
-title                    : "Park, Jun Hyeok's Homepage"
+title                    : "Park's Homepage"
 title_separator          : "-"
 name                     : &name "Park, Jun Hyeok"
 description              : &description "personal description"
