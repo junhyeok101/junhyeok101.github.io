@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 I'm a sophomore of Yonsei University, majoring in Interior Architecture with a double major in Computer Science.
 
-📖 My research interests are in **Computer Vision** and **Data Science**, particularly in advancing smart home IoT devices and autonomous technologies.
+📖 My research interests are in **Computer Vision** and **Data Science**
 
 💡 I am passionate about learning deeply and finding the right solutions in the field of computer science. I value teamwork and love sharing ideas to grow together.
 
@@ -35,6 +35,7 @@ redirect_from:
 ------
 
 ### 🏫 Extracurricular Activities
+
 
 💻 **Member of YCC** (Yonsei Computer Club) (Sep 2024 - Current)
 - Actively engaging in study groups and projects in the field of computer science.
