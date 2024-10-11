@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="300px"}
+
 ## 👋 Hello everyone, I'm Park, Junhyeok!
 
 🎓 I'm a sophomore of Yonsei University, majoring in Interior Architecture with a double major in Computer Science.
