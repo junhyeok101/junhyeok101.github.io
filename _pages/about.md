@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="180px"}
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="200px" style="margin-bottom: 20px;"}
 
 ## 👋 Hello everyone, I'm Park, Junhyeok!
 
