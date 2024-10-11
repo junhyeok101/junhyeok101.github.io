@@ -12,15 +12,17 @@ redirect_from:
 
 📖 My research interests are in **Computer Vision** and **Data Science**, particularly in advancing smart home IoT devices and autonomous technologies.
 
+💡 I am passionate about learning deeply and finding the right solutions in the field of computer science. I value teamwork and love sharing ideas to grow together.
+
 ------
 
 ### 🏅 Education
 
-- **Yonsei University**
-- 
-  Sophomore in Interior Architecture (Double Major in Computer Science).
+**Yonsei University**
   
-  GPA: 4.04 / 4.30 (Overall), 4.09 / 4.30 (Major)
+- Sophomore in Interior Architecture (Double Major in Computer Science).
+  
+- GPA: 4.04 / 4.30 (Overall), 4.09 / 4.30 (Major)
 
 ------
 
