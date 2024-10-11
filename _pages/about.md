@@ -41,7 +41,7 @@ redirect_from:
 - Awarded twice for significant roles in ROK-US training exercises and ROK-US friendship activities.<br>
 ![Illustration of combining vision and language modalities](/images/a20.jpg){: width="200px"}
 ![Illustration of combining vision and language modalities](/images/award.jpg){: width="200px"}
-![Illustration of combining vision and language modalities](/images/presentation.jpg){: width="150px"}
+![Illustration of combining vision and language modalities](/images/presentation.jpg){: width="170px"}
 
 ------
 
