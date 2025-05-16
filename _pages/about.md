@@ -55,6 +55,7 @@ redirect_from:
 
 - **Member of YAI** (Yonsei Artificial Intelligence) (Jan 2025 – Current)<br>
   Serving as an executive member, participating in paper readings and leading AI projects.
+  
 ------
 
 ### 🔬 Research Interests
@@ -65,6 +66,7 @@ redirect_from:
   Interested in exploring applications of data science in various fields.
 - **BIM** (Building Information Modeling)<br>
  • Interested in integrating BIM, AI, and 3D vision for smart construction and lifecycle building data management.
+
 ------
 
 ### 🛠️ Skills
