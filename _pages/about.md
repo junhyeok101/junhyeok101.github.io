@@ -8,9 +8,9 @@ redirect_from:
 ---
 ![Illustration of combining vision and language modalities](/images/park2.jpg){: .align-right width="150px" style="margin-top: 20px;"}
 
-🎓 I'm a sophomore of Yonsei University, majoring in Interior Architecture with a double major in Computer Science.
+🎓 I'm a Junior of Yonsei University, majoring in Interior Architecture with a double major in Computer Science.
 
-📖 My research interests are in **Computer Vision** and **Data Science**
+📖 My research interests are in **Computer Vision**, **Data Science** and **BIM**
 
 💡 I'm passionate about learning deeply and finding solutions in computer science. 
 
@@ -21,7 +21,7 @@ redirect_from:
 ### ✏️ Education
 
 - **Yonsei University**, Sophomore in Interior Architecture (Double Major in Computer Science).
-- GPA: **4.04** / 4.30 (Overall), **4.09** / 4.30 (Major)
+- GPA: **3.91** / 4.30 (Overall), **4.09** / 4.30 (Major)
 
 ------
 
@@ -53,6 +53,8 @@ redirect_from:
 - **Department Student Council of Interior Architecture** (Mar 2021 - Dec 2021)<br>
   Responsible for organizing and managing various departmental events as part of the Planning Department.
 
+- **Member of YAI** (Yonsei Artificial Intelligence) (Jan 2025 – Current)<br>
+  Serving as an executive member, participating in paper readings and leading AI projects.
 ------
 
 ### 🔬 Research Interests
@@ -61,7 +63,8 @@ redirect_from:
   Interested in using computer vision to advance smart home IoT devices.
 - **Data Science**<br>
   Interested in exploring applications of data science in various fields.
-
+- **BIM** (Building Information Modeling)<br>
+ • Interested in integrating BIM, AI, and 3D vision for smart construction and lifecycle building data management.
 ------
 
 ### 🛠️ Skills
