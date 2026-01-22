@@ -1,1 +1,6 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# Personal Website
+
+Welcome to the repository for my personal website! 🌟  
+Visit the live website here: [sooorankim.github.io](https://sooorankim.github.io/)
+
+This website template is inspired by [Jon Barron's website](https://jonbarron.info/).
