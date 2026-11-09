@@ -372,6 +372,30 @@ I am a fourth-year undergraduate student <strong><a href="https://www.yonsei.ac.
 			  
 
 
+          <section id="projects" style="padding:20px;" aria-labelledby="projects-heading">
+            <h2 id="projects-heading">Projects</h2>
+            <article style="margin-top:20px;">
+              <h3 class="papertitle" style="margin:0;">SceneFun3D Benchmark Challenge</h3>
+              <p><em>Jul &ndash; Aug 2026 | OpenSUN3D Workshop at ECCV 2026</em></p>
+              <p>For Track 2, Task-Driven Affordance Grounding, I reproduced and extended UniFunc3D to locate the part a person would interact with in a 3D scene. For example, given a request to open a drawer, the system identifies the handle in a laser scan.</p>
+              <p>I used Qwen3-VL to select views and localize the part, SAM3 to segment it in 2D, and depth-aware voting to lift the masks into 3D. I tested two-pass frame filtering, box-and-text prompts, and an adaptive voting threshold.</p>
+              <p>My submission (Park) scored <strong>4.17 AP<sub>50</sub></strong> and <strong>12.56 AP<sub>25</sub></strong> on the SceneFun3D test split.</p>
+              <p>
+                <a href="https://opensun3d.github.io/#challenge">Workshop</a> &nbsp;/&nbsp;
+                <a href="https://eval.ai/web/challenges/challenge-page/2466/overview">Challenge</a> &nbsp;/&nbsp;
+                <a href="https://eval.ai/web/challenges/challenge-page/2466/leaderboard/6121">Leaderboard</a>
+              </p>
+              <figure style="margin:20px 0 0;">
+                <a href="images/scenefun3d-pipeline.png">
+                  <img src="images/scenefun3d-pipeline.png" width="1373" height="784" loading="lazy"
+                       style="display:block;width:100%;height:auto;border-radius:6px;"
+                       alt="Example pipeline: RGB-D views of a cabinet are filtered, its drawer handle is segmented, and masks from multiple views vote for the final 3D mask.">
+                </a>
+                <figcaption style="margin-top:8px;font-size:14px;">Experimental pipeline from the project presentation, showing view selection, 2D segmentation, and 3D lifting.</figcaption>
+              </figure>
+            </article>
+          </section>
+
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
               <td style="padding:0px">
