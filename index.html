@@ -394,6 +394,24 @@ I am a fourth-year undergraduate student <strong><a href="https://www.yonsei.ac.
                 <figcaption style="margin-top:8px;font-size:14px;">Experimental pipeline from the project presentation, showing view selection, 2D segmentation, and 3D lifting.</figcaption>
               </figure>
             </article>
+            <article id="less-is-more-in-3d" style="margin-top:32px;">
+              <h3 class="papertitle" style="margin:0;">Less is More in 3D</h3>
+              <p><em>Team B3HIND | AI Capstone Design (&#51064;&#44277;&#51648;&#45733;&#51333;&#54633;&#49444;&#44228;), Department of Computer Science, Yonsei University</em></p>
+              <p>Our team developed this course project in collaboration with Yonsei University's CIP Lab. We extended LiteVGGT to make multi-view 3D reconstruction more efficient by selecting informative frames with Sobel edge cues and merging redundant tokens adaptively across views.</p>
+              <p>In our experiments, the quadtree-based merging variant achieved <strong>84.7% average token compression</strong> and a <strong>1.16&times; speedup</strong> over the fixed-grid merging baseline, with a 0.09% decrease in Chamfer distance.</p>
+              <p>
+                <a href="https://github.com/B3HINDlitevggt">Team project</a> &nbsp;/&nbsp;
+                <a href="https://github.com/B3HINDlitevggt/litevggt-adaptive-token-merging">Code</a>
+              </p>
+              <figure style="margin:20px 0 0;">
+                <a href="images/b3hind-litevggt-results.png">
+                  <img src="images/b3hind-litevggt-results.png" width="1400" height="850" loading="lazy"
+                       style="display:block;width:100%;height:auto;border-radius:6px;"
+                       alt="Comparison of token compression, Chamfer distance change, and speedup across three merging methods.">
+                </a>
+                <figcaption style="margin-top:8px;font-size:14px;">Token-merging results from the B3HIND team repository.</figcaption>
+              </figure>
+            </article>
           </section>
 
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
